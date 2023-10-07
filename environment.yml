@@ -1,0 +1,9 @@
+name: votebymail
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - plotly
+prefix: ~/anaconda3/envs/votebymail
