@@ -6,4 +6,5 @@ dependencies:
   - jupyter
   - pandas
   - plotly
+  - python-kaleido
 prefix: ~/anaconda3/envs/votebymail
